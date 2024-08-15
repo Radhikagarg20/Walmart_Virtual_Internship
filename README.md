@@ -90,5 +90,5 @@ Write a Python script to import data from spreadsheets into an SQLite database.
 
 ## Contact
 
-For questions or support, please email [radhikagarg104@example.com](radhikagarg104@example.com).
+For any questions or further assistance, please contact [radhikagarg104@example.com](radhikagarg104@example.com).
 
