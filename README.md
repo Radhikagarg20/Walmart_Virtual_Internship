@@ -88,17 +88,7 @@ Write a Python script to import data from spreadsheets into an SQLite database.
 3. **Running the Code**:
    - Follow instructions in each task’s directory.
 
-4. **Contributing**:
-   - Fork the repository, make your changes, and submit a pull request with a description of your updates.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or support, please email [your-email@example.com](mailto:your-email@example.com).
 
----
-
-Feel free to replace placeholders with your actual details and adjust the content as needed.
